@@ -1,16 +1,20 @@
-# live_test_ostad_11
+# 📋 Add Employee App
 
-A new Flutter project.
+A simple Flutter application to add employee details — Name, Age, and Salary — using a clean and minimalistic UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📌 Input fields for Name, Age, and Salary
+- 🚀 Easily extendable to connect with backend or database
+- 🖱 Tap-friendly rounded submit button
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Screenshot
+
+<img src="ui_images/1.png" alt="Add Employee Screen" width="300"/>
+
+---
+
