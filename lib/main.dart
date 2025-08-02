@@ -25,7 +25,6 @@ class AddEmployeeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // Define a TextEditingController for each field (optional but useful)
     final nameController = TextEditingController();
     final ageController = TextEditingController();
     final salaryController = TextEditingController();
@@ -68,7 +67,7 @@ class AddEmployeeScreen extends StatelessWidget {
             SizedBox(height: 30),
             ElevatedButton(
               onPressed: () {
-                // You can handle the logic to save data here
+                //handle the logic to save data here
                 String name = nameController.text;
                 String age = ageController.text;
                 String salary = salaryController.text;
